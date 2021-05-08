@@ -23,8 +23,8 @@ let aBox = function(imgAdd, t_start, xdir, ydir, div){
 
       p.background("white");
       p.image(img,0,0,240,240);
-      p.rotate(PI / 10.0);
-      p.tint(0, 153, 204); // Tint blue
+      // p.rotate(PI / 10.0);
+      // p.tint(0, 153, 204); // Tint blue
       p.strokeWeight(2);
       p.rectMode(p.CORNER);
           
