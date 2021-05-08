@@ -23,7 +23,7 @@ let aBox = function(imgAdd, t_start, xdir, ydir, div){
 
       p.background("white");
       if(count%10===0){
-        fill(50);
+        // fill(50);
         p.image(img,0,0,240,240);
       }
       else{
