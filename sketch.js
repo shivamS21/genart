@@ -74,15 +74,15 @@ let aBox = function(imgAdd, div){
   }, div)
 }
 
-let a1 = aBox("Box1.jpg", 'c1');
-let a2 = aBox("Box2.jpg", 'c2');
-let a3 = aBox("Box3.jpg", 'c3');
-let a4 = aBox("Box4.jpg", 'c4');
-let a5 = aBox("Box5.jpg", 'c5');
-let a6 = aBox("Box6.jpg", 'c6');
-let a7 = aBox("Box7.jpg", 'c7');
-let a8 = aBox("Box8.jpg", 'c8');
-let a9 = aBox("Box9.jpg", 'c9');
-let a10 = aBox("Box10.jpg", 'c10');
-let a11 = aBox("Box11.jpg", 'c11');
-let a12 = aBox("Box12.jpg", 'c12');
+let a1 = aBox("./images/Box1.jpg", 'c1');
+let a2 = aBox("./images/Box2.jpg", 'c2');
+let a3 = aBox("./images/Box3.jpg", 'c3');
+let a4 = aBox("./images/Box4.jpg", 'c4');
+let a5 = aBox("./images/Box5.jpg", 'c5');
+let a6 = aBox("./images/Box6.jpg", 'c6');
+let a7 = aBox("./images/Box7.jpg", 'c7');
+let a8 = aBox("./images/Box8.jpg", 'c8');
+let a9 = aBox("./images/Box9.jpg", 'c9');
+let a10 = aBox("./images/Box10.jpg", 'c10');
+let a11 = aBox("./images/Box11.jpg", 'c11');
+let a12 = aBox("./images/Box12.jpg", 'c12');

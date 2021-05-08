@@ -85,15 +85,15 @@ let aBox = function(imgAdd, t_start, xdir, ydir, div){
   }, div)
 }
 
-let a1 = aBox("Box1.jpg",0,1,0, 'c1');
-let a2 = aBox("Box2.jpg",10,1,0, 'c2');
-let a3 = aBox("Box3.jpg",20,1,0 ,'c3');
-let a4 = aBox("Box4.jpg",30,0,1, 'c4');
-let a5 = aBox("Box5.jpg",90,0,-1 ,'c5');
-let a6 = aBox("Box6.jpg",100,1,0 ,'c6');
-let a7 = aBox("Box7.jpg",110,1,0,'c7');
-let a8 = aBox("Box8.jpg",40,0,1, 'c8');
-let a9 = aBox("Box9.jpg",80,0,-1 ,'c9');
-let a10 = aBox("Box10.jpg",70,-1,0 ,'c10');
-let a11 = aBox("Box11.jpg",60,-1,0 ,'c11');
-let a12 = aBox("Box12.jpg",50,0,1, 'c12');
+let a1 = aBox("./images/Box1.jpg",0,1,0, 'c1');
+let a2 = aBox("./images/Box2.jpg",10,1,0, 'c2');
+let a3 = aBox("./images/Box3.jpg",20,1,0 ,'c3');
+let a4 = aBox("./images/Box4.jpg",30,0,1, 'c4');
+let a5 = aBox("./images/Box5.jpg",90,0,-1 ,'c5');
+let a6 = aBox("./images/Box6.jpg",100,1,0 ,'c6');
+let a7 = aBox("./images/Box7.jpg",110,1,0,'c7');
+let a8 = aBox("./images/Box8.jpg",40,0,1, 'c8');
+let a9 = aBox("./images/Box9.jpg",80,0,-1 ,'c9');
+let a10 = aBox("./images/Box10.jpg",70,-1,0 ,'c10');
+let a11 = aBox("./images/Box11.jpg",60,-1,0 ,'c11');
+let a12 = aBox("./images/Box12.jpg",50,0,1, 'c12');

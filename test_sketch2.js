@@ -1,4 +1,4 @@
-let count = 0;
+
 let aBox = function(imgAdd, t_start, xdir, ydir, div){
   new p5(function (p) {
     let img;
