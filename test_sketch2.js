@@ -22,8 +22,8 @@ let aBox = function(imgAdd, t_start, xdir, ydir, div){
     p.draw = function() {
 
       p.background("white");
-      p.rotate(PI / 10.0);
       p.image(img,0,0,240,240);
+      p.rotate(PI / 10.0);
       p.strokeWeight(2);
       p.rectMode(p.CORNER);
           
