@@ -22,13 +22,9 @@ let aBox = function(imgAdd, t_start, xdir, ydir, div){
     p.draw = function() {
 
       p.background("white");
-      if(count%10===0){
-        p.image(img,0,0,240,240);
-      }
-      else{
-        fill(50);
-      }
-      count += 1;
+      p.image(img,0,0,240,240);
+      p.rotate(PI / 10.0);
+      p.tint(0, 153, 204); // Tint blue
       p.strokeWeight(2);
       p.rectMode(p.CORNER);
           
